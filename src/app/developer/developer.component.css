@@ -1,0 +1,23 @@
+.title {
+    margin-top: 100px;
+}
+
+.infoContainer {
+    width: 250px;
+    text-align: left;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding-left: 10px;
+    margin-bottom: 100px;
+}
+
+.skillsContainer {
+    width: 50%;
+    margin: auto;
+}
+
+.technosContainer {
+    display: flex;
+    justify-content: space-around;
+}
